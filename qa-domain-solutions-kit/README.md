@@ -1,8 +1,10 @@
 [] 바로가기 링크추가
 [] 상단에 설명 추가
 [] Desicion Log (= 실무에서는 테스트 리포트) 작성 
+[] QAㅍ플랜 작성 (키워드 위주로)
+[] 테스트 결과 시트 작성 (키워드 위주로) (disicion log랑 겹칠수도)
 
-
+```
 QA-Domain-Solution-Kit/ # 특정 도메인에서 QA가 문제를 바라보고 판단하는 방식
 |
 ├─ Overview
@@ -45,7 +47,7 @@ QA-Domain-Solution-Kit/ # 특정 도메인에서 QA가 문제를 바라보고 �
 |
 └─ Change-Impact-Note 
    # 변경사항이 기존 기능에 미치는 영향 분석
-
+```
 
 **바로가기**
 - 📄 [QA Plan](./Planning/QA%20Plan.md)
