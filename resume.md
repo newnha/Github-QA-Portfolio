@@ -116,31 +116,19 @@ _QA Engineer | 5-6 Years Experience_
 ## 📂 Portfolio Structure
 ```
 projects/
-├─ dk-techin/
+├─ DKTechin/
 ├─ oxopolitics/
 ├─ whatssub/
-└─ bti-solutions/
+└─ BTI-solutions/
 
 qa-domain-solutions-kit/
 ├─ qa-workflow/
-├─ test-design-guide/
-├─ change-impact-note/
-└─ decision-log/
+├─ qa-workflow-workspace/
+└─ test-design-guide/
 
 skill-development/
 └─ playwright/
 
-
-- projects/
-  # 회사별 QA 경험 정리
-- qa-domain-solutions-kit/
-  - QA Workflow
-  - Test Design Guide
-  - Change Impact Note
-  - Decision Log
-
-- skill-development/
-  - Playwright 기반 E2E 테스트 학습
 ```
 ---
 
@@ -151,12 +139,3 @@ skill-development/
 - **Blog**:  
   - Brunch: https://brunch.co.kr/@newnha  
   - Velog: https://velog.io/@newnha
-
----
-
-> 이 README는 단순한 경력 요약이 아니라,  
-> **QA 엔지니어로서 제가 문제를 정의하고, 검증하고, 판단해온 방식**을 보여주기 위한 문서입니다.
-
-
-
-
