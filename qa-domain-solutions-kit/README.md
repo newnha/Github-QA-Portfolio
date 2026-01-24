@@ -1,8 +1,8 @@
-[] 바로가기 링크추가
-[] 상단에 설명 추가
-[] Desicion Log (= 실무에서는 테스트 리포트) 작성 
-[] QAㅍ플랜 작성 (키워드 위주로)
-[] 테스트 결과 시트 작성 (키워드 위주로) (disicion log랑 겹칠수도)
+📦 QA Domain Solution Kit
+
+> 어떤 도메인에서든 QA가 문제를 어떻게 바라보고, 어떤 근거로 테스트 범위와 품질 판단을 내렸는지를 문서로 정리한 워크스페이스입니다.
+> 기능 나열이 아닌, QA의 사고 과정과 판단 기준을 중심으로 구성되어 있습니다.
+
 
 ```
 QA-Domain-Solution-Kit/ # 특정 도메인에서 QA가 문제를 바라보고 판단하는 방식
@@ -48,8 +48,3 @@ QA-Domain-Solution-Kit/ # 특정 도메인에서 QA가 문제를 바라보고 �
 └─ Change-Impact-Note 
    # 변경사항이 기존 기능에 미치는 영향 분석
 ```
-
-**바로가기**
-- 📄 [QA Plan](./Planning/QA%20Plan.md)
-- 🧾 [Decision Log](./Planning/Decision%20Log.md)
-- 🧪 [Test Result](./Execution/Test%20Result.md)
