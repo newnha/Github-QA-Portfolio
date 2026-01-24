@@ -111,6 +111,16 @@ _QA Engineer | 5-6 Years Experience_
 
 <br>
 
+## Skill Development **💪**
+
+**E2E 테스트 자동화 도구 학습**  
+
+- Playwright 기반 E2E 테스트 기본 구조 학습
+- TypeScript 환경에서 테스트 코드 작성 연습
+
+🔗 GitHub: https://github.com/newnha/playwright
+
+· · · · · · · · · · ·
 
 ## 📂 Portfolio Structure
 ```
@@ -122,10 +132,9 @@ projects/
 qa-domain-solutions-kit/
 ├─ qa-workflow/
 ├─ qa-workflow-workspace/
-└─ test-design-guide/
+├─ qa-adhoc-checklist/
+└─ qa-plan
 
-skill-development/
-└─ playwright/
 ```
 ---
 
