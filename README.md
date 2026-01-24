@@ -19,18 +19,21 @@ QA-GitHub-Portfolio/
 ### 🧭 Navigation Guide
 
 📜 **QA로서의 경력/역할이 궁금하면**  
-→ `resume/`
+→ [`resume/`](https://github.com/newnha/Github-QA-Portfolio/blob/main/resume.md)
 
 🗂 **프로젝트별 QA 역할이 궁금하면**  
 → `projects/`
 
 ✨ **QA 전체 구조/철학이 궁금하면**  
-→ `qa-domain-solution-kits/`
+→ [`qa-domain-solution-kits/`](https://github.com/newnha/Github-QA-Portfolio/tree/main/qa-domain-solutions-kit)
 
 ┈┈┈┈┈┈┈┈
 
 ### 📬 Contact
 
 ✉️ Email: newn2508@gmail.com
-
-🧑‍💻 GitHub: https://github.com/newnha
+💼 Portfolio: https://bit.ly/yoonhajung
+🔗 Link
+- GitHub: https://github.com/newnha
+- Brunch: https://brunch.co.kr/@newnha
+- Velog: https://velog.io/@newnha
